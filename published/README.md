@@ -1,4 +1,5 @@
-![OASIS](../OASIS-Logo.png)
+![OASIS](./OASIS-Logo.png)
+
 ---
 
 # OASIS TC Processes
