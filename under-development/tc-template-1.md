@@ -107,7 +107,7 @@ appendix.
 ### Editorial Changes
 
 < A list of editorial changes since the last balloted version. This Editoral
-Changes section between the square brackets and including the square brackets
+Changes section, between the square brackets, and including the square brackets
 will be deleted after a successful ballot and during the publication
 process. >
 
@@ -153,15 +153,15 @@ process. >
 
 ---
 
-# 1 Introduction
-
-## 1.1 Scope
+# 1 Scope
 
 < What is the purpose and scope of this document? >
 
-## 1.2 Any Additional Introduction Subsections That Are Needed
+# 2 Introduction
 
-## 1.3 Changes From the Previous Version
+## 2.1 Any Additional Introduction Subsections That Are Needed
+
+## 2.2 Changes From the Previous Version
 
 < This should include a bulleted list of major changes that reviewers and
 implementers need to know about. >
@@ -169,9 +169,9 @@ implementers need to know about. >
  - Change 1
  - Change 2
 
-## 1.4 Glossary
+## 2.3 Glossary
 
-### 1.4.1 Terms Defined Elsewhere
+### 2.3.1 Terms Defined Elsewhere
 
 < It is generally more consistent to refer to an existing official definition
 rather than to redefine a term. Normally, terms defined elsewhere will simply
@@ -186,71 +186,71 @@ This document uses the following terms defined elsewhere:
  - **Term 1**: [Reference]: optional quoted definition.
  - **Term 2**: [Reference]: optional quoted definition.
 
-### 1.4.2 Terms Defined in this Document
+### 2.3.2 Terms Defined in this Document
 
 This document defines the following terms:
 
  - **Term 1**: some definition.
  - **Term 2**: some definition.
 
-### 1.4.3 Abbreviations and Acronyms
+### 2.3.3 Abbreviations and Acronyms
 
 This document uses the following abbreviations and acronyms:
 
  - **Term 1**: expanded form.
  - **Term 2**: expanded form.
 
-## 1.4 Document Conventions
+## 2.4 Document Conventions
 
 < Information about any document conventions used in this document. >
 
 ---
 
-# 2 Level 1 Section Header
+# 3 Level 1 Section Header
 
 < While markdown supports up to 6 levels of nested headers, it is generally
 advised to structure the document to minimize the number of nested sections. A
 best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
-## 2.1 Level 2 Section Header
+## 3.1 Level 2 Section Header
 
-### 2.1.1 Level 3 Section Header
+### 3.1.1 Level 3 Section Header
 
-#### 2.1.1.1 Level 4 Section Header
+#### 3.1.1.1 Level 4 Section Header
 
-##### 2.1.1.1.1 Level 5 Section Header
+##### 3.1.1.1.1 Level 5 Section Header
 
-###### 2.1.1.1.1.1 Level 6 Section Header
-
----
-
-# 3 Additional Sections as Needed
+###### 3.1.1.1.1.1 Level 6 Section Header
 
 ---
 
-# 4 Conformance
+# 4 Additional Sections as Needed
+
+---
+
+# Annex 1 Conformance
 
 < This should be the last numbered section in the document. >
 
 ---
 
-# Appendix A. Example Appendix with Subsections
+# Appendix A Example Appendix with Subsections
 
-## A.1. Subsection title
+## A.1 Subsection title
 
-## A.1.1. Sub-subsection
-
----
-
-# Appendix B. Additional Appendices as Needed
-
-## B.1. Subsection title
-
-## B.1.1. Sub-subsection
+## A.1.1 Sub-subsection
 
 ---
 
-# Appendix C. Safety, Security and Privacy Considerations
+# Appendix B Additional Appendices as Needed
+
+## B.1 Subsection title
+
+## B.1.1 Sub-subsection
+
+---
+
+# Appendix C Safety, Security and Privacy Considerations
 
 < Information about safety, security, and privacy considerations. These can be
 divided up into separate subsections as desired. All documents should really
@@ -258,7 +258,7 @@ have a security and privacy considerations section. >
 
 ---
 
-# Appendix D. References
+# Appendix D References
 
 This appendix contains the normative and informative references that are used in
 this document. Normative references are specific (identified by date of
@@ -289,7 +289,7 @@ document but may assist the reader with regard to a particular subject area.
 
 ---
 
-# Appendix E. Acknowledgments
+# Appendix E Acknowledgments
 
 ## E.1 Leadership
 
@@ -313,7 +313,7 @@ this document and their contributions are gratefully acknowledged:
 
 ---
 
-# Appendix F. Revision History
+# Appendix F Revision History
 
  - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
    - < Changes Made >
@@ -322,7 +322,7 @@ this document and their contributions are gratefully acknowledged:
 
 ---
 
-# Appendix G. Notices
+# Appendix G Notices
 
 Copyright © OASIS Open 2023. All Rights Reserved.
 
