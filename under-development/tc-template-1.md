@@ -4,7 +4,7 @@
 
 # < DOCUMENT NAME > Version #.#
 
-### Work Draft 01
+### Working Draft 01
 
 ### 17 May 2023
 
