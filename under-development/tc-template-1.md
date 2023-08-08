@@ -8,36 +8,46 @@
 
 ### 17 May 2023
 
-### This Version:
+### This Version
 
  - < link to authoritative version of the published document > (Authoritative)
  - < links to one or more other versions of the published document (e.g., MD, PDF, Word, HTML) >
 
-### Previous Version:
+### Previous Version
 
  - < link to authoritative version of the published document > (Authoritative)
  - < links to one or more other versions of the published document (e.g., MD, PDF, Word, HTML) >
 
-### Latest Version:
+### Latest Version
 
  - < link to authoritative version of the published document > (Authoritative)
  - < links to one or more other versions of the published document (e.g., MD, PDF, Word, HTML) >
 
-### Technical Committee:
+### Technical Committee
 
 < The full name of the technical committee linked to their landing page >
 
-### Chair(s):
+### Chair(s)
 
  - First Name Last Name (email), Company
  - First Name Last Name (email), Company
 
-### Editor(s):
+### Editor(s)
 
  - First Name Last Name (email), Company
  - First Name Last Name (email), Company
 
-### Related Work:
+### Abstract
+
+< Document abstract >
+
+### Citation Format
+
+When referencing this document, the following citation format should be used:
+
+**[Reference 1]**: Reference Details
+
+### Related Work
 
 This document replaces or supersedes:
 
@@ -47,11 +57,7 @@ This document is related to:
 
  - < The full reference to the related document >
 
-### Abstract:
-
-< Document abstract >
-
-### Document Status:
+### Document Status
 
 This document was last revised or approved by the < full TC name > TC on the
 above date. The level of approval is also listed above. Check the "Latest
@@ -78,21 +84,7 @@ the event of a discrepancy between any such plain text file and display content
 in the Work Product's prose narrative document(s), the content in the separate
 plain text file prevails.
 
-### Key Words:
-
-The key words "**MUST**", "**MUST NOT**", "**REQUIRED**", "**SHALL**", "**SHALL
-NOT**", "**SHOULD**", "**SHOULD NOT**", "**RECOMMENDED**", "**NOT
-RECOMMENDED**", "**MAY**", and "**OPTIONAL**" in this document are to be
-interpreted as described in BCP 14 [IETF RFC 2119] [IETF RFC 8174] when, and
-only when, they appear in all capitals, as shown here.
-
-### Citation Format:
-
-When referencing this document, the following citation format should be used:
-
-**[Reference 1]**: Reference Details
-
-### Notices:
+### Notices
 
 Copyright © OASIS Open 2023. 
 All Rights Reserved. Distributed under the terms of the OASIS IPR Policy,
@@ -117,22 +109,26 @@ process. >
 
 # Table of Contents
 
-- [1 Scope](#11-scope)
-- [2 Introduction](#1-introduction)
-  * [2.1 Any Additional Introduction Subsections That Are Needed](#12-any-additional-introduction-subsections-that-are-needed)
-  * [2.2 Changes From the Previous Version](#13-changes-from-the-previous-version)
-  * [2.3 Glossary](#14-glossary)
-    + [2.3.1 Terms Defined Elsewhere](#141-terms-defined-elsewhere)
-    + [2.3.2 Terms Defined in this Document](#142-terms-defined-in-this-document)
-    + [2.3.3 Abbreviations and Acronyms](#143-abbreviations-and-acronyms)
-  * [2.4 Document Conventions](#14-document-conventions)
-- [3 Level 1 Section Header](#2-level-1-section-header)
-  * [3.1 Level 2 Section Header](#21-level-2-section-header)
-    + [3.1.1 Level 3 Section Header](#211-level-3-section-header)
-      - [3.1.1.1 Level 4 Section Header](#2111-level-4-section-header)
-        * [3.1.1.1.1 Level 5 Section Header](#21111-level-5-section-header)
-          + [3.1.1.1.1.1 Level 6 Section Header](#211111-level-6-section-header)
-- [4 Additional Sections as Needed](#3-additional-sections-as-needed)
+- [1 Scope](#1-scope)
+- [2 References](#2-references)
+- [3 Definitions](#3-definitions)
+  * [3.1 Terms Defined Elsewhere](#31-terms-defined-elsewhere)
+  * [3.2 Terms Defined in this Document](#32-terms-defined-in-this-document)
+- [4 Abbreviations and Acronyms](#4-abbreviations-and-acronyms)
+- [5 Document Conventions](#5-document-conventions)
+  * [5.1 Key Words](#51-key-words)
+  * [5.2 Typographical Conventions](#52-typographical-conventions)
+- [6 Introduction](#6-introduction)
+  * [6.1 Purpose](#61-purpose)
+  * [6.2 Any Additional Introduction Subsections That Are Needed](#62-any-additional-introduction-subsections-that-are-needed)
+  * [6.2 Changes From the Previous Version](#62-changes-from-the-previous-version)
+- [7 Level 1 Section Header](#7-level-1-section-header)
+  * [7.1 Level 2 Section Header](#71-level-2-section-header)
+    + [7.1.1 Level 3 Section Header](#711-level-3-section-header)
+      - [7.1.1.1 Level 4 Section Header](#7111-level-4-section-header)
+        * [7.1.1.1.1 Level 5 Section Header](#71111-level-5-section-header)
+          + [7.1.1.1.1.1 Level 6 Section Header](#711111-level-6-section-header)
+- [8 Additional Sections as Needed](#8-additional-sections-as-needed)
 - [Annex 1 Conformance](#annex-1-conformance)
 - [Appendix A Example Appendix with Subsections](#appendix-a-example-appendix-with-subsections)
   * [A.1 Subsection title](#a1-subsection-title)
@@ -157,11 +153,64 @@ process. >
 
 < What is the purpose and scope of this document? >
 
-# 2 Introduction
+# 2 References
 
-## 2.1 Any Additional Introduction Subsections That Are Needed
+Please see the appendix for Normative and Informative References.
 
-## 2.2 Changes From the Previous Version
+# 3 Definitions
+
+## 3.1 Terms Defined Elsewhere
+
+< It is generally more consistent to refer to an existing official definition
+rather than to redefine a term. Normally, terms defined elsewhere will simply
+refer to the defining document. In certain cases, it may be desirable to quote
+the definition to allow for a stand-alone document. Before defining a new term,
+verify whether it has already been defined in an official document elsewhere
+such as in another OASIS Technical Specification, the ITU terminology database
+(www.itu.i.nt/go/terms), IEEE, ISO, or IETF. >
+
+This document uses the following terms defined elsewhere:
+
+ - **Term 1**: [Reference]: optional quoted definition.
+ - **Term 2**: [Reference]: optional quoted definition.
+
+## 3.2 Terms Defined in this Document
+
+This document defines the following terms:
+
+ - **Term 1**: some definition.
+ - **Term 2**: some definition.
+
+# 4 Abbreviations and Acronyms
+
+This document uses the following abbreviations and acronyms:
+
+ - **Term 1**: expanded form.
+ - **Term 2**: expanded form.
+
+# 5 Document Conventions
+
+## 5.1 Key Words
+
+The key words "**MUST**", "**MUST NOT**", "**REQUIRED**", "**SHALL**", "**SHALL
+NOT**", "**SHOULD**", "**SHOULD NOT**", "**RECOMMENDED**", "**NOT
+RECOMMENDED**", "**MAY**", and "**OPTIONAL**" in this document are to be
+interpreted as described in BCP 14 [IETF RFC 2119] [IETF RFC 8174] when, and
+only when, they appear in all capitals, as shown here.
+
+## 5.2 Typographical Conventions
+
+< Describe any standards or typographical conventions that were followed when
+writing this document, such as fonts or highlighting that have special
+significance. >
+
+# 6 Introduction
+
+## 6.1 Purpose
+
+## 6.2 Any Additional Introduction Subsections That Are Needed
+
+## 6.2 Changes From the Previous Version
 
 < This should include a bulleted list of major changes that reviewers and
 implementers need to know about. >
@@ -169,62 +218,27 @@ implementers need to know about. >
  - Change 1
  - Change 2
 
-## 2.3 Glossary
-
-### 2.3.1 Terms Defined Elsewhere
-
-< It is generally more consistent to refer to an existing official definition
-rather than to redefine a term. Normally, terms defined elsewhere will simply
-refer to the defining document. In certain cases, it may be desirable to quote
-the definition to allow for a stand-alone document. Before defining a new term,
-verify whether it has already been defined in an official document elsewhere
-such as the ITU terminology database (www.itu.i.nt/go/terms), IEEE, ISO, IETF,
-or another OASIS Technical Specification. >
-
-This document uses the following terms defined elsewhere:
-
- - **Term 1**: [Reference]: optional quoted definition.
- - **Term 2**: [Reference]: optional quoted definition.
-
-### 2.3.2 Terms Defined in this Document
-
-This document defines the following terms:
-
- - **Term 1**: some definition.
- - **Term 2**: some definition.
-
-### 2.3.3 Abbreviations and Acronyms
-
-This document uses the following abbreviations and acronyms:
-
- - **Term 1**: expanded form.
- - **Term 2**: expanded form.
-
-## 2.4 Document Conventions
-
-< Information about any document conventions used in this document. >
-
 ---
 
-# 3 Level 1 Section Header
+# 7 Level 1 Section Header
 
 < While markdown supports up to 6 levels of nested headers, it is generally
 advised to structure the document to minimize the number of nested sections. A
 best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
-## 3.1 Level 2 Section Header
+## 7.1 Level 2 Section Header
 
-### 3.1.1 Level 3 Section Header
+### 7.1.1 Level 3 Section Header
 
-#### 3.1.1.1 Level 4 Section Header
+#### 7.1.1.1 Level 4 Section Header
 
-##### 3.1.1.1.1 Level 5 Section Header
+##### 7.1.1.1.1 Level 5 Section Header
 
-###### 3.1.1.1.1.1 Level 6 Section Header
+###### 7.1.1.1.1.1 Level 6 Section Header
 
 ---
 
-# 4 Additional Sections as Needed
+# 8 Additional Sections as Needed
 
 ---
 
@@ -253,8 +267,9 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 # Appendix C Safety, Security and Privacy Considerations
 
 < Information about safety, security, and privacy considerations. These can be
-divided up into separate subsections as desired. All documents should really
-have a security and privacy considerations section. >
+divided up into separate subsections as desired. All documents should have a
+security and privacy considerations section. Any specification that will need
+to register something with IANA MUST have this section filled out. >
 
 ---
 
