@@ -215,8 +215,6 @@ implementers need to know about. >
  - Change 1
  - Change 2
 
----
-
 # 7 Level 1 Section Header
 
 < While markdown supports up to 6 levels of nested headers, it is generally
@@ -232,8 +230,6 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 ##### 7.1.1.1.1 Level 5 Section Header
 
 ###### 7.1.1.1.1.1 Level 6 Section Header
-
----
 
 # 8 Additional Sections as Needed
 
@@ -251,15 +247,11 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
 ## A.1.1 Sub-subsection
 
----
-
 # Appendix B Additional Appendices as Needed
 
 ## B.1 Subsection title
 
 ## B.1.1 Sub-subsection
-
----
 
 # Appendix C Safety, Security and Privacy Considerations
 
@@ -267,8 +259,6 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 divided up into separate subsections as desired. All documents should have a
 security and privacy considerations section. Any specification that will need
 to register something with IANA MUST have this section filled out. >
-
----
 
 # Appendix D References
 
@@ -299,8 +289,6 @@ document but may assist the reader with regard to a particular subject area.
 
 **[Reference 2]**: Reference Details
 
----
-
 # Appendix E Acknowledgments
 
 ## E.1 Leadership
@@ -323,16 +311,12 @@ this document and their contributions are gratefully acknowledged:
 
  - First Name Last Name, Company
 
----
-
 # Appendix F Revision History
 
  - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
    - < Changes Made >
  - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
    - < Changes Made >
-
----
 
 # Appendix G Notices
 
