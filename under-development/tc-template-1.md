@@ -119,8 +119,7 @@ process. >
   * [5.1 Key Words](#51-key-words)
   * [5.2 Typographical Conventions](#52-typographical-conventions)
 - [6 Introduction](#6-introduction)
-  * [6.1 Purpose](#61-purpose)
-  * [6.2 Any Additional Introduction Subsections That Are Needed](#62-any-additional-introduction-subsections-that-are-needed)
+  * [6.1 Any Additional Introduction Subsections That Are Needed](#61-any-additional-introduction-subsections-that-are-needed)
   * [6.2 Changes From the Previous Version](#62-changes-from-the-previous-version)
 - [7 Level 1 Section Header](#7-level-1-section-header)
   * [7.1 Level 2 Section Header](#71-level-2-section-header)
@@ -206,9 +205,7 @@ significance. >
 
 # 6 Introduction
 
-## 6.1 Purpose
-
-## 6.2 Any Additional Introduction Subsections That Are Needed
+## 6.1 Any Additional Introduction Subsections That Are Needed
 
 ## 6.2 Changes From the Previous Version
 
