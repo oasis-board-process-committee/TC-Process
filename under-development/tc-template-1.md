@@ -59,30 +59,12 @@ This document is related to:
 
 ### Document Status
 
-This document was last revised or approved by the < full TC name > TC on the
-above date. The level of approval is also listed above. Check the "Latest
-version" location noted above for possible later revisions of this document.
-Any other numbered Versions and other technical work produced by the Technical
-Committee (TC) are listed at < TC publication page such as
-https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao#technical >.
+This document was last revised or approved by the < full proj name > on the above date. Check the "Latest version" location 
+noted above for possible later revisions of this document.
 
-TC members should send comments on this document to the TC's email list. Others
-should send comments to the TC's public comment list, after subscribing to it
-by following the instructions at the "Send A Comment" button on the TC's web
-page at < TC home page such as https://www.oasis-open.org/committees/cacao/ >.
+For information on patents, please refer to <link to the respective ipr declarations page>.
 
-This document is provided under the < set assertion mode such as Non-Assertion
-Mode > of the OASIS IPR Policy, the mode chosen when the Technical Committee
-was established. For information on whether any patents have been disclosed
-that may be essential to implementing this document, and any offers of patent
-licensing terms, please refer to the Intellectual Property Rights section of
-the TC’s web page (https://www.oasis-open.org/committees/cacao/ipr.php).
-
-Note that any machine-readable content (Computer Language Definitions) declared
-Normative for this Work Product is provided in separate plain text files. In
-the event of a discrepancy between any such plain text file and display content
-in the Work Product's prose narrative document(s), the content in the separate
-plain text file prevails.
+For complete status information, please see the Status section in <link to the appendix>.
 
 ### Notices
 
@@ -318,7 +300,24 @@ this document and their contributions are gratefully acknowledged:
  - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
    - < Changes Made >
 
-# Appendix G Notices
+# Appendix G Status 
+
+This document was last revised or approved by the < full proj name > on the above date. The level of approval is also listed above. 
+Check the "Latest version" location noted above for possible later revisions of this document. Any other numbered Versions and 
+other technical work produced by the Technical Committee (TC) are listed at < proj publication page such as 
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao#technical >.
+
+TC members should send comments on this document to the TC's email list. Others should send comments to the TC's public comment list, 
+after subscribing to it by following the instructions at the "Send A Comment" button on the TC's web page at < proj home page such 
+as https://www.oasis-open.org/committees/cacao/ >.
+
+This document is provided under the [<assertion mode such as Non-Assertion Mode> of the OASIS IPR Policy] | [applicable FOSS license], 
+the mode chosen when the project was established. For information on whether any patents have been disclosed that may be essential to 
+implementing this document, and any offers of patent licensing terms, please refer to the [Intellectual Property Rights section of the project web page (https://www.oasis-open.org/committees/tc-name/ipr.php) | [IPR-STATEMENT.md file in the Open Project's administrative information repository (link to the file)].
+
+Note that any machine-readable content (Computer Language Definitions) declared Normative for this Work Product is provided in separate plain text files. In the event of a discrepancy between any such plain text file and display content in the Work Product's prose narrative document(s), the content in the separate plain text file prevails.
+
+# Appendix H Notices 
 
 Copyright © OASIS Open 2023. All Rights Reserved.
 
