@@ -75,59 +75,6 @@ FOR A PARTICULAR PURPOSE or NONINFRINGEMENT of the rights of others. For
 complete copyright information please see the Notices section in the
 appendix. 
 
-### References
-
-Please see the appendix for Normative and Informative References.
-
-### Definitions
-
-#### Terms Defined Elsewhere
-
-< It is generally more consistent to refer to an existing official definition
-rather than to redefine a term. Normally, terms defined elsewhere will simply
-refer to the defining document. In certain cases, it may be desirable to quote
-the definition to allow for a stand-alone document. Before defining a new term,
-verify whether it has already been defined in an official document elsewhere
-such as in another OASIS Technical Specification, the ITU terminology database
-(www.itu.i.nt/go/terms), IEEE, ISO, or IETF. >
-
-This document uses the following terms defined elsewhere:
-
- - **Term 1**: [Reference]: optional quoted definition.
- - **Term 2**: [Reference]: optional quoted definition.
-
-#### Terms Defined in this Document
-
-This document defines the following terms:
-
- - **Term 1**: some definition.
- - **Term 2**: some definition.
-
-### Abbreviations and Acronyms
-
-This document uses the following abbreviations and acronyms:
-
- - **Term 1**: expanded form.
- - **Term 2**: expanded form.
-
-### Document Conventions
-
-#### Key Words
-
-The key words "**MUST**", "**MUST NOT**", "**REQUIRED**", "**SHALL**", "**SHALL
-NOT**", "**SHOULD**", "**SHOULD NOT**", "**RECOMMENDED**", "**NOT
-RECOMMENDED**", "**MAY**", and "**OPTIONAL**" in this document are to be
-interpreted as described in BCP 14 [IETF RFC 2119] [IETF RFC 8174] when, and
-only when, they appear in all capitals, as shown here.
-
-#### Typographical Conventions
-
-< Describe any standards or typographical conventions that were followed when
-writing this document, such as fonts or highlighting that have special
-significance. >
-
-
-
 [
 
 ### Editorial Changes
@@ -144,17 +91,25 @@ process. >
 # Table of Contents
 
 - [1 Scope](#1-scope)
-- [2 Introduction](#2-introduction)
-  * [2.1 Any Additional Introduction Subsections That Are Needed](#21-any-additional-introduction-subsections-that-are-needed)
-  * [2.2 Changes From the Previous Version](#22-changes-from-the-previous-version)
-- [3 Level 1 Section Header](#3-level-1-section-header)
-  * [3.1 Level 2 Section Header](#31-level-2-section-header)
-    + [3.1.1 Level 3 Section Header](#311-level-3-section-header)
-      - [3.1.1.1 Level 4 Section Header](#3111-level-4-section-header)
-        * [3.1.1.1.1 Level 5 Section Header](#31111-level-5-section-header)
-          + [3.1.1.1.1.1 Level 6 Section Header](#311111-level-6-section-header)
-- [4 Additional Sections as Needed](#4-additional-sections-as-needed)
-- [5 Conformance](#5-conformance)
+- [2 References](#2-references)
+- [3 Definitions](#3-definitions)
+  * [3.1 Terms Defined Elsewhere](#31-terms-defined-elsewhere)
+  * [3.2 Terms Defined in this Document](#32-terms-defined-in-this-document)
+- [4 Abbreviations and Acronyms](#4-abbreviations-and-acronyms)
+- [5 Document Conventions](#5-document-conventions)
+  * [5.1 Key Words](#51-key-words)
+  * [5.2 Typographical Conventions](#52-typographical-conventions)
+- [6 Introduction](#6-introduction)
+  * [6.1 Any Additional Introduction Subsections That Are Needed](#61-any-additional-introduction-subsections-that-are-needed)
+  * [6.2 Changes From the Previous Version](#62-changes-from-the-previous-version)
+- [7 Level 1 Section Header](#7-level-1-section-header)
+  * [7.1 Level 2 Section Header](#71-level-2-section-header)
+    + [7.1.1 Level 3 Section Header](#711-level-3-section-header)
+      - [7.1.1.1 Level 4 Section Header](#7111-level-4-section-header)
+        * [7.1.1.1.1 Level 5 Section Header](#71111-level-5-section-header)
+          + [7.1.1.1.1.1 Level 6 Section Header](#711111-level-6-section-header)
+- [8 Additional Sections as Needed](#8-additional-sections-as-needed)
+- [Annex 1 Conformance](#annex-1-conformance)
 - [Appendix A Example Appendix with Subsections](#appendix-a-example-appendix-with-subsections)
   * [A.1 Subsection title](#a1-subsection-title)
   * [A.1.1 Sub-subsection](#a11-sub-subsection)
@@ -170,8 +125,7 @@ process. >
   * [E.1 Special Thanks](#e1-special-thanks)
   * [E.2 Participants](#e2-participants)
 - [Appendix F Revision History](#appendix-f-revision-history)
-- [Appendix G Status](#appendix-g-status)
-- [Appendix H Notices](#appendix-h-notices)
+- [Appendix G Notices](#appendix-g-notices)
 
 ---
 
@@ -179,11 +133,62 @@ process. >
 
 < What is the purpose and scope of this document? >
 
-# 2 Introduction
+# 2 References
 
-## 2.1 Any Additional Introduction Subsections That Are Needed
+Please see the appendix for Normative and Informative References.
 
-## 2.2 Changes From the Previous Version
+# 3 Definitions
+
+## 3.1 Terms Defined Elsewhere
+
+< It is generally more consistent to refer to an existing official definition
+rather than to redefine a term. Normally, terms defined elsewhere will simply
+refer to the defining document. In certain cases, it may be desirable to quote
+the definition to allow for a stand-alone document. Before defining a new term,
+verify whether it has already been defined in an official document elsewhere
+such as in another OASIS Technical Specification, the ITU terminology database
+(www.itu.i.nt/go/terms), IEEE, ISO, or IETF. >
+
+This document uses the following terms defined elsewhere:
+
+ - **Term 1**: [Reference]: optional quoted definition.
+ - **Term 2**: [Reference]: optional quoted definition.
+
+## 3.2 Terms Defined in this Document
+
+This document defines the following terms:
+
+ - **Term 1**: some definition.
+ - **Term 2**: some definition.
+
+# 4 Abbreviations and Acronyms
+
+This document uses the following abbreviations and acronyms:
+
+ - **Term 1**: expanded form.
+ - **Term 2**: expanded form.
+
+# 5 Document Conventions
+
+## 5.1 Key Words
+
+The key words "**MUST**", "**MUST NOT**", "**REQUIRED**", "**SHALL**", "**SHALL
+NOT**", "**SHOULD**", "**SHOULD NOT**", "**RECOMMENDED**", "**NOT
+RECOMMENDED**", "**MAY**", and "**OPTIONAL**" in this document are to be
+interpreted as described in BCP 14 [IETF RFC 2119] [IETF RFC 8174] when, and
+only when, they appear in all capitals, as shown here.
+
+## 5.2 Typographical Conventions
+
+< Describe any standards or typographical conventions that were followed when
+writing this document, such as fonts or highlighting that have special
+significance. >
+
+# 6 Introduction
+
+## 6.1 Any Additional Introduction Subsections That Are Needed
+
+## 6.2 Changes From the Previous Version
 
 < This should include a bulleted list of major changes that reviewers and
 implementers need to know about. >
@@ -191,27 +196,27 @@ implementers need to know about. >
  - Change 1
  - Change 2
 
-# 3 Level 1 Section Header
+# 7 Level 1 Section Header
 
 < While markdown supports up to 6 levels of nested headers, it is generally
 advised to structure the document to minimize the number of nested sections. A
 best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
-## 3.1 Level 2 Section Header
+## 7.1 Level 2 Section Header
 
-### 3.1.1 Level 3 Section Header
+### 7.1.1 Level 3 Section Header
 
-#### 3.1.1.1 Level 4 Section Header
+#### 7.1.1.1 Level 4 Section Header
 
-##### 3.1.1.1.1 Level 5 Section Header
+##### 7.1.1.1.1 Level 5 Section Header
 
-###### 3.1.1.1.1.1 Level 6 Section Header
+###### 7.1.1.1.1.1 Level 6 Section Header
 
-# 4 Additional Sections as Needed
+# 8 Additional Sections as Needed
 
 ---
 
-# 5 Conformance
+# 9 Conformance
 
 < This should be the last numbered section in the document. >
 
