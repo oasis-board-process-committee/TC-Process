@@ -63,7 +63,7 @@ This document was last revised or approved by the < full proj name > on the
 above date. Check the "Latest version" location noted above for possible later
 revisions of this document. For information on patents, please refer to < link
 to the respective ipr declarations page >. For complete status information,
-please see the Status section in the appendix.
+please see the Document Status section in the annex.
 
 ### Notices
 
@@ -73,11 +73,7 @@ All Rights Reserved. Distributed under the terms of the OASIS IPR Policy,
 IMPLIED OR EXPRESS WARRANTY; there is no warranty of MERCHANTABILITY, FITNESS
 FOR A PARTICULAR PURPOSE or NONINFRINGEMENT of the rights of others. For
 complete copyright information please see the Notices section in the
-appendix. 
-
-### References
-
-Please see the appendix for Normative and Informative References.
+annex. 
 
 ### Definitions
 
@@ -89,7 +85,8 @@ refer to the defining document. In certain cases, it may be desirable to quote
 the definition to allow for a stand-alone document. Before defining a new term,
 verify whether it has already been defined in an official document elsewhere
 such as in another OASIS Technical Specification, the ITU terminology database
-(www.itu.i.nt/go/terms), IEEE, ISO, or IETF. >
+(www.itu.i.nt/go/terms), ISO terms (https://www.iso.org/obp/ui), IEC
+electropedia (https://www.electropedia.org/IEEE), or IETF. >
 
 This document uses the following terms defined elsewhere:
 
@@ -126,8 +123,6 @@ only when, they appear in all capitals, as shown here.
 writing this document, such as fonts or highlighting that have special
 significance. >
 
-
-
 [
 
 ### Editorial Changes
@@ -155,23 +150,23 @@ process. >
           + [3.1.1.1.1.1 Level 6 Section Header](#311111-level-6-section-header)
 - [4 Additional Sections as Needed](#4-additional-sections-as-needed)
 - [5 Conformance](#5-conformance)
-- [Appendix A Example Appendix with Subsections](#appendix-a-example-appendix-with-subsections)
+- [Annex A Example Annex with Subsections](#annex-a-example-annex-with-subsections)
   * [A.1 Subsection title](#a1-subsection-title)
   * [A.1.1 Sub-subsection](#a11-sub-subsection)
-- [Appendix B Additional Appendices as Needed](#appendix-b-additional-appendices-as-needed)
+- [Annex B Additional Annex as Needed](#annex-b-additional-annex-as-needed)
   * [B.1 Subsection title](#b1-subsection-title)
   * [B.1.1 Sub-subsection](#b11-sub-subsection)
-- [Appendix C Safety, Security and Privacy Considerations](#appendix-c-safety--security-and-privacy-considerations)
-- [Appendix D References](#appendix-d-references)
+- [Annex C Safety, Security and Privacy Considerations](#annex-c-safety--security-and-privacy-considerations)
+- [Annex D References](#annex-d-references)
   * [D.1 Normative References](#d1-normative-references)
   * [D.2 Informative References](#d2-informative-references)
-- [Appendix E Acknowledgments](#appendix-e-acknowledgments)
-  * [E.1 Leadership](#e1-leadership)
-  * [E.1 Special Thanks](#e1-special-thanks)
-  * [E.2 Participants](#e2-participants)
-- [Appendix F Revision History](#appendix-f-revision-history)
-- [Appendix G Status](#appendix-g-status)
-- [Appendix H Notices](#appendix-h-notices)
+- [Annex E Document Status](#annex-e-document-status)
+- [Annex F Notices](#annex-f-notices)
+- [Appendix 1 Acknowledgments](#appendix-1-acknowledgments)
+  * [Leadership](#leadership)
+  * [Special Thanks](#special-thanks)
+  * [Participants](#participants)
+- [Appendix 2 Revision History](#appendix-2-revision-history)
 
 ---
 
@@ -217,34 +212,38 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
 ---
 
-# Appendix A Example Appendix with Subsections
+# Annex A Example Annex with Subsections
+
+(This annex forms an integral part of this Specification.)
 
 ## A.1 Subsection title
 
 ## A.1.1 Sub-subsection
 
-# Appendix B Additional Appendices as Needed
+# Annex B Additional Annex as Needed
+
+(This annex forms an integral part of this Specification.)
 
 ## B.1 Subsection title
 
 ## B.1.1 Sub-subsection
 
-# Appendix C Safety, Security and Privacy Considerations
+# Annex C Safety, Security and Privacy Considerations
 
 < Information about safety, security, and privacy considerations. These can be
 divided up into separate subsections as desired. All documents should have a
 security and privacy considerations section. Any specification that will need
 to register something with IANA MUST have this section filled out. >
 
-# Appendix D References
+# Annex D References
 
-This appendix contains the normative and informative references that are used in
+This annex contains the normative and informative references that are used in
 this document. Normative references are specific (identified by date of
 publication and/or edition number or version number) and Informative references
 are either specific or non-specific. For specific references, only the cited
 version applies. For non-specific references, the latest version of the
 reference document (including any amendments) applies. While any hyperlinks
-included in this appendix were valid at the time of publication, OASIS cannot
+included in this annex were valid at the time of publication, OASIS cannot
 guarantee their long term validity.
 
 ## D.1 Normative References
@@ -265,36 +264,8 @@ document but may assist the reader with regard to a particular subject area.
 
 **[Reference 2]**: Reference Details
 
-# Appendix E Acknowledgments
 
-## E.1 Leadership
-
-< List of the chairs, sub committees chairs, secretaries, editors, etc >
-
- - Position, First Name Last Name (email), Company
-
-## E.1 Special Thanks
-
-Substantial contributions to this specification from the following individuals
-are gratefully acknowledged:
-
- - First Name Last Name, Company
-
-## E.2 Participants
-
-The following individuals were members of this committee during the creation of
-this document and their contributions are gratefully acknowledged:
-
- - First Name Last Name, Company
-
-# Appendix F Revision History
-
- - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
-   - < Changes Made >
- - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
-   - < Changes Made >
-
-# Appendix G Status 
+# Annex E Document Status 
 
 This document was last revised or approved by the < full proj name > on the
 above date. The level of approval is also listed above. Check the "Latest
@@ -325,7 +296,7 @@ the event of a discrepancy between any such plain text file and display content
 in the Work Product's prose narrative document(s), the content in the separate
 plain text file prevails.
 
-# Appendix H Notices 
+# Annex F Notices 
 
 Copyright © OASIS Open 2023. All Rights Reserved.
 
@@ -398,5 +369,40 @@ outputs. OASIS welcomes reference to, and implementation and use of, documents,
 while reserving the right to enforce its marks against misleading uses. Please
 see https://www.oasis-open.org/policies-guidelines/trademark/ for above
 guidance.
+
+---
+
+# Appendix 1 Acknowledgments
+
+(This appendix does not form an integral part of this Specification.)
+
+## Leadership
+
+< List of the chairs, sub committees chairs, secretaries, editors, etc >
+
+ - Position, First Name Last Name (email), Company
+
+## Special Thanks
+
+Substantial contributions to this specification from the following individuals
+are gratefully acknowledged:
+
+ - First Name Last Name, Company
+
+## Participants
+
+The following individuals were members of this committee during the creation of
+this document and their contributions are gratefully acknowledged:
+
+ - First Name Last Name, Company
+
+# Appendix 2 Revision History
+
+(This appendix does not form an integral part of this Specification.)
+
+ - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
+   - < Changes Made >
+ - < Revision number >, < Date yyyy-mm-dd >, < Editor(s) >
+   - < Changes Made >
 
 ---
