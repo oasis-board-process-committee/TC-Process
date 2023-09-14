@@ -242,12 +242,16 @@ best practice is to try and keep nesting to no greater than 3-4 levels deep. >
 
 # Annex C Safety, Security and Privacy Considerations
 
+(This annex forms an integral part of this Specification.)
+
 < Information about safety, security, and privacy considerations. These can be
 divided up into separate subsections as desired. All documents should have a
 security and privacy considerations section. Any specification that will need
 to register something with IANA MUST have this section filled out. >
 
 # Annex D References
+
+(This annex forms an integral part of this Specification.)
 
 This annex contains the normative and informative references that are used in
 this document. Normative references are specific (identified by date of
@@ -279,6 +283,8 @@ document but may assist the reader with regard to a particular subject area.
 
 # Annex E Document Status 
 
+(This annex forms an integral part of this Specification.)
+
 This document was last revised or approved by the < full proj name > on the
 above date. The level of approval is also listed above. Check the "Latest
 version" location noted above for possible later revisions of this document.
@@ -309,6 +315,8 @@ in the Work Product's prose narrative document(s), the content in the separate
 plain text file prevails.
 
 # Annex F Notices 
+
+(This annex forms an integral part of this Specification.)
 
 Copyright © OASIS Open 2023. All Rights Reserved.
 
