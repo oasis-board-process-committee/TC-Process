@@ -12,5 +12,9 @@ under the Creative Commons Attribution 4.0 International Public License (CC BY
 
 # Introduction
 
-TC Process Document 
-https://docs.google.com/document/d/1wSQ_05AFIkfwaO-nj5pAQ9iyQOvkFHGbryylMmtVOV4/edit
+- TC Process Document (working): https://docs.google.com/document/d/1wSQ_05AFIkfwaO-nj5pAQ9iyQOvkFHGbryylMmtVOV4/edit
+- TC Process Document (v6.0): https://docs.google.com/document/d/1W4p6J6psLXXPwUV-Z2qa81RDt3Lp7TGWRfbpQjCgyFA/edit
+
+- Defined Terms (working): https://docs.google.com/document/d/1aojj0DqC1LphpXWNERM18CEsXrUMZHZ2iAXfL4U4AKw/edit
+- Defined Terms (v1.0): https://docs.google.com/document/d/1m13nhmayfa9fZcv2jLcmyiCrQMJfNFzfBOOoHJDxf1s/edit
+  
